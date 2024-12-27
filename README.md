@@ -4,7 +4,7 @@ MixMaster is an interactive web application that fetches cocktail recipes from t
 
 ## Live Demo
 
-You can access the live app here: [MixMaster](https://contentfu1-cms-app.netlify.app/)
+You can access the live app here: [MixMaster](https://mixmaster-cocktails-app.netlify.app/)
 
 ## Features
 
