@@ -2,6 +2,10 @@
 
 MixMaster is an interactive web application that fetches cocktail recipes from the Cocktail DB API. It is designed to help you discover enchanting drink recipes and take your mixology game to the next level. Whether you're hosting a party or just looking for a refreshing drink, MixMaster has you covered!
 
+## Live Demo
+
+You can access the live app here: [MixMaster](https://contentfu1-cms-app.netlify.app/)
+
 ## Features
 
 - **Search for Cocktails:** Find your favorite cocktails or explore new ones using the search functionality.
